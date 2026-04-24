@@ -4,4 +4,7 @@ Welcome to the GitHub page for this project! This is where I will be posting upd
 
 See the proposal document for an overview of the project goals and approaches: https://github.com/savanahbird/coastal_martens/tree/main/Humboldt_WGS_proposal.pdf
 
+Preliminary results from sequencing data mapped to the M. flavigula reference: 
+https://github.com/savanahbird/coastal_martens/tree/main/Results_update_260331.pdf
+
 See Wiki page for summary of bioinformatics used to do run analyses: https://github.com/savanahbird/coastal_martens/wiki/
