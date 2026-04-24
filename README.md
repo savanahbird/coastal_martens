@@ -9,10 +9,10 @@ https://github.com/savanahbird/coastal_martens/tree/main/Results_update_260331.p
 
 See Wiki page for summary of bioinformatics used to do run analyses: https://github.com/savanahbird/coastal_martens/wiki/
 
-### Sneak peak at some updated results with data mapped to Emily's M. caurina humboldtensis assembly
+### Sneak peak at some updated results with data mapped to new <i>M. caurina humboldtensis</i> assembly
 #### Heterozygosity
-<img alt="Het_boxplot_MCH" src="https://github.com/user-attachments/assets/8ac5aa38-b359-476e-8c2d-c20d509ff57b" width="50%"/>
+<img alt="Het_boxplot_MCH" src="https://github.com/user-attachments/assets/8ac5aa38-b359-476e-8c2d-c20d509ff57b" width="75%"/>
 
 #### Inbreeding
-<img width="4724" height="2362" alt="ROH_bcftools_all_MCH" src="https://github.com/user-attachments/assets/8d9d822b-e318-47d6-95f7-d288dde65b73" />
+<img alt="ROH_bcftools_all_MCH" src="https://github.com/user-attachments/assets/8d9d822b-e318-47d6-95f7-d288dde65b73" width="75%"/>
 
