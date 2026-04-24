@@ -18,4 +18,4 @@ Heterozygosity estimates are much <b>lower</b> than they were when we used <i>M.
 #### Inbreeding
 <img alt="ROH_bcftools_all_MCH" src="https://github.com/user-attachments/assets/8d9d822b-e318-47d6-95f7-d288dde65b73" width="75%"/>
 
-From left to right, groups are: <i>M. americana</i> (Colella et al. 2021), Colorado/Washington (Colella et al. 2021), OR Cascades, CA North, OR South, OR Dunes South, OR Dunes North. Fraction of the genome occuring within a long ROH is <b>higher</b> than it was when we used <i>M. flavigula</i> as a reference. We think that the spurious heterozygosity spikes were breaking up long ROH.
+From left to right, groups are: <i>M. americana</i> (Colella et al. 2021), Colorado/Washington (Colella et al. 2021), OR Cascades, CA North, OR South, OR Dunes South, OR Dunes North. Fraction of the genome occuring within long ROH is <b>higher</b> than it was when we used <i>M. flavigula</i> as a reference. We think that the spurious heterozygosity spikes were breaking up long ROH.
