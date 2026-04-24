@@ -9,4 +9,4 @@ https://github.com/savanahbird/coastal_martens/tree/main/Results_update_260331.p
 
 See Wiki page for summary of bioinformatics used to do run analyses: https://github.com/savanahbird/coastal_martens/wiki/
 
-<img width="2362" height="1181" alt="Het_boxplot_MCH" src="https://github.com/user-attachments/assets/8ac5aa38-b359-476e-8c2d-c20d509ff57b" />
+<img width="1181" height="591" alt="Het_boxplot_MCH" src="https://github.com/user-attachments/assets/8ac5aa38-b359-476e-8c2d-c20d509ff57b" />
